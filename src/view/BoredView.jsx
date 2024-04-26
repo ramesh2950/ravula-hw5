@@ -13,7 +13,7 @@ const BoredView = () => {
     <div>
       <h1> Bored App </h1>
       <p>{activity || 'Click the button to get a suggestion'}</p>
-      <button onClick={handleClick}>Click me for suggestion</button>
+      <button onClick={handleClick}>Click me for Suggestion</button>
     </div>
   )
 }
